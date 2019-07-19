@@ -33,8 +33,8 @@ The backend server is a simple [Laravel](https://laravel.com/) with **JWT authen
 $ #############################
 $ # clone and build the backend
 
-$ git clone https://github.com/app-generator/laravel-starter.git
-$ cd laravel-starter
+$ git clone https://github.com/app-generator/laravel-boilerplate.git
+$ cd laravel-boilerplate
 $ vi .env # setup DB connection and JWT 
 
 $ composer install # install modules
